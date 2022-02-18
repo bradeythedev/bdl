@@ -12,4 +12,4 @@ Below is a list of the libraries...
 - ### bdl.bdlTerm
     To install ```bdl.bdlTerm```, you can clone the entire repo, download the file individually, or download it from the releases tab.
     - #### bdl.bdlTerm.bdlTermQuery
-        To install ```bdl.fromTermQuery```, you can clone the entire repo, download the file individually, or download it from the releases tab.
+        To install ```bdl.bdlTerm.bdlTermQuery```, you can clone the entire repo, download the file individually, or download it from the releases tab.
