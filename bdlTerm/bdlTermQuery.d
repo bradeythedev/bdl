@@ -1,4 +1,4 @@
-// Copyright bradeythedev (https://github.com/bradeythedev) 2022
+// Copyright (c) 2022 bradeythedev (https://github.com/bradeythedev)
 
 module bdlTerm.bdlTermQuery;
 import std.stdio;
