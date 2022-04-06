@@ -34,7 +34,7 @@ import std.stdio;
 //
 //   TERMINAL:
 //   Do you want to wipe your disk? [y/N]
-//   [if simply enter is inputted, it will result in myBool being set to true]
+//   [if simply enter is inputted, it will result in myBool being set to false]
 
 
 
